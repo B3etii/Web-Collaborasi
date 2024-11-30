@@ -1,0 +1,134 @@
+.header{
+    width: 1280px;
+    position: fixed;
+    padding: 0px;
+    margin: -160px -8px;
+}
+
+.opening {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    margin-top: 160px;
+    color: rgb(191, 223, 231);
+    font-size: 20px;
+}
+
+.title-o {
+    margin-left: 50px;
+    color: rgb(191, 223, 231);
+    font-size: 30px;
+}
+
+.poster-17-o {
+    margin-left: 30px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.o1 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o2 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o3 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o4 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o5 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o6 {
+    height: 155px;
+    height: 155px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.o-bg {
+    background-color: rgb(191, 223, 231);
+}
+
+.a-o {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    color: rgb(191, 223, 231);
+    font-size: 20px;
+}
+
+.b-o {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    color: rgb(191, 223, 231);
+    font-size: 20px;
+}
+
+h2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    color: rgb(191, 223, 231);
+    font-size: 30px;
+}
+
+.c-o {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    color: rgb(191, 223, 231);
+    font-size: 20px;
+}
+
+.d-o {
+    margin-left:80px;
+    margin-right: 50px;
+    text-align: justify;
+    color: rgb(191, 223, 231);
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(43, 129, 182);
+}
+
+text {
+    color: rgb(191, 223, 231);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+}

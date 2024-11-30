@@ -1,0 +1,130 @@
+.header{
+    width: 1280px;
+    position: fixed;
+    padding: 0px;
+    margin: -25px -8px;
+}
+
+ul{
+    list-style:none;
+    background: #c2dee8;
+    padding: 0px 0px;
+    margin: 103px -8px;
+    position: fixed;
+    width: 1280px;
+    height: 60px;
+} 
+
+ul li{
+    display: inline-block ;
+    position: relative;
+    height: 60px;
+    padding: 10px 8px;
+}
+
+ul li a{
+    padding: 10px 0px;
+    text-align: center;
+}
+
+ul a:hover{
+    background-color: #83ceed;
+}
+
+ul li ul.dropdown li{
+    display: block;
+}
+
+ul li ul.dropdown{
+    background:#83ceed;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    margin: -5px 0px;
+}
+
+ul li:hover ul.dropdown{
+    display: block;
+}
+
+.title{
+    text-align: center;
+    color: rgb(20, 94, 119);
+    padding-top: 178px;
+    font-size: 30px;
+}
+
+.column {
+    margin-top: 250px;
+    padding: 0px 10px;
+}
+
+.column.center {
+    width: 50%;
+}
+
+.column.side{
+    width: 25%;
+}
+
+.a{
+    width: 250px;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+
+.b{
+    width: 250px;
+    height: 300px;
+}
+
+.c{
+    width: 250px;
+    height: 300px;
+}
+
+.d{
+    width: 250px;
+    height: 300px;
+}
+
+.e{
+    width: 250px;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.f{
+    width: 250px;
+    height: 300px;
+}
+
+.g{
+    width: 250px;
+    height: 300px;
+}
+
+.h{
+    width: 250px;
+    height: 300px;
+}
+
+body {
+    background-color: #c2dee8;
+}
+
+.welcome {
+    margin-top: -10px;
+    text-align: center;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+}
